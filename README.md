@@ -1,4 +1,4 @@
-# 📱 QR Code Toolkit — Generator & Image Scanner
+# 📱 QR Code Toolkit | Generator & Image Scanner
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square&logo=python)](https://python.org)
 [![Pillow](https://img.shields.io/badge/Image_Processing-Pillow-blueviolet?style=flat-square)](https://python-pillow.org/)
@@ -29,4 +29,4 @@ python main.py
 ---
 
 ## 👨‍💻 Author
-**Syed Mesum Ali** — [@mesumali-dev](https://github.com/mesumali-dev)
+**Syed Mesum Ali** - [@mesumali-dev](https://github.com/mesumali-dev)
